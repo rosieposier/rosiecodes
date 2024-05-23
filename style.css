@@ -8,7 +8,7 @@ body, html {
   min-height: 100vh;
 }
 
-@font-face { font-family: W95; src: url("../public/fonts/W95FA.otf"); } 
+@font-face { font-family: W95; src: url("../fonts/W95FA.otf"); } 
 
 body {
   background: #237E7F;
@@ -17,7 +17,7 @@ body {
   font-weight: 400;
   font-style: normal;
   font-optical-sizing: auto;
-  line-height: 1.5;
+  line-height: 1;
   text-rendering: optimizeLegibility;
   cursor: default;
 }
