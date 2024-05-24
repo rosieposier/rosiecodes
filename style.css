@@ -32,8 +32,8 @@ body {
 }
 
 .wrapper {
-  width: 90vw;
-  width: clamp(16rem, 90vw, 70rem);
+  width: 95vw;
+  width: clamp(16rem, 95vw, 70rem);
   height: 75vh;
   margin: 0 auto;
   position: relative;
